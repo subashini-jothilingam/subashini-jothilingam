@@ -32,12 +32,11 @@ I enjoy transforming raw enterprise data into reliable, analytics-ready datasets
 <p align="center">
 Data Engineering
 </p>
-<div align="center">
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)
-</div>
+![Snowflake](<p align="center">https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white</p>)
+![dbt](<p align="center">https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white</p>)
+![Airflow](<p align="center">https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white</p>)
+![Kafka](<p align="center">https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka</p>)
+
 Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
