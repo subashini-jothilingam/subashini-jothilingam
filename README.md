@@ -71,18 +71,6 @@ https://github.com/subajothi980/snowflake-pipeline-using-cortex-code
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=subajothi980&show_icons=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subajothi980&layout=compact"/>
-
-</p>
-
----
-
 ## 📊 Contribution Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=subajothi980" />
