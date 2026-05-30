@@ -79,12 +79,13 @@ https://github.com/subashini-jothilingam/snowflake-pipeline-using-cortex-code
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subashini-jothilingam&theme=tokyo-night&hide_border=true" />
 </p>
-
-<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  <h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=subashini-jothilingam&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashini-jothilingam&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=subajothi980&theme=black-ice&hide_border=true&background=000000" />
+</p>
+
 </p>
 ---
 
