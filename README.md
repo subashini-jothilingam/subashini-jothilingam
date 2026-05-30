@@ -35,6 +35,7 @@ I enjoy transforming raw enterprise data into reliable, analytics-ready datasets
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt" />
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka" />
+<img src="https://img.shields.io/badge/Teradata-F37421?style=for-the-badge&logoColor=white" />
 </p>
 <p align="center">Programming</p>
 <p align="center">
