@@ -87,7 +87,6 @@ https://github.com/subashini-jothilingam/snowflake-pipeline-using-cortex-code
 </p>
 
 </p>
----
 
 ## 🎯 Currently Learning
 
