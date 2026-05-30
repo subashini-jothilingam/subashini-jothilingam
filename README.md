@@ -32,9 +32,9 @@ I enjoy transforming raw enterprise data into reliable, analytics-ready datasets
 <p align="center">Data Engineering</p>
 <p align="center">
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt" />
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white" />
-<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt" />
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow\&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka" />
 </p>
 <p align="center">Programming</p>
 <p align="center">
@@ -42,12 +42,12 @@ I enjoy transforming raw enterprise data into reliable, analytics-ready datasets
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
 </p>
 <p align="center">Cloud</p>
-<p align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws" />
+<p align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
 </p>
 <p align="center">Version Control</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </p>
 
 ---
