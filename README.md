@@ -114,7 +114,7 @@ https://github.com/subashini-jothilingam/snowflake-pipeline-using-cortex-code
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/subajothi980
+* GitHub: https://github.com/subashini-jothilingam/
 * LinkedIn: https://linkedin.com/in/subashini-jothilingam/
 
 ---
