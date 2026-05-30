@@ -29,7 +29,7 @@ I enjoy transforming raw enterprise data into reliable, analytics-ready datasets
 ---
 
 ## 🛠 Tech Stack
-
+<p align="center">
 ### Data Engineering
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
@@ -51,6 +51,7 @@ I enjoy transforming raw enterprise data into reliable, analytics-ready datasets
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
+</p>
 ---
 
 ## 🔥 Featured Projects
